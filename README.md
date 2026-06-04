@@ -56,4 +56,4 @@ O projeto foi construído utilizando as ferramentas padrão do ecossistema Andro
 
 ## 👨‍💻 Autor
 
-**Allan Crisanto** *Técnico de TI & Estudante de Análise e Desenvolvimento de Sistemas (UNINTER)*
+**Allan Crisanto** *Técnico de TI, Graduado em ADS pela Uninter e Pós-graduando Cibersegurança Ofensiva pela FIAP*
